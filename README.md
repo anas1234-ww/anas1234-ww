@@ -27,7 +27,7 @@ When I'm not coding, you'll find me researching algorithms or experimenting with
 
 <div align="center">
 
-### Languages
+### like Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-050505?style=for-the-badge&logo=intel&logoColor=white)
 
@@ -85,8 +85,7 @@ When I'm not coding, you'll find me researching algorithms or experimenting with
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anas1234-ww) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anas1234-ww)
 </div>
 
 <div align="center">
