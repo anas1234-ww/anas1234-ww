@@ -46,19 +46,19 @@ When I'm not coding, you'll find me researching algorithms or experimenting with
 
 ---
 
-## 🚀 Space Invaders: Mission Control 🌌
+## 🖥️ 3D Memory & System Architecture Grid 🏗️
 
 <div align="center">
   
-  <!-- لعبة غزو الفضاء تلتهم مساهماتك -->
-  ![Space Invaders](https://raw.githubusercontent.com/anas1234-ww/anas1234-ww/space-output/github-contribution-grid-space.svg)
-
+  <!-- مجسم ثلاثي الأبعاد مخصص يحاكي الـ Stack/Heap للذاكرة -->
+  ![](profile-3d-contrib/profile-green.svg)
   
-  <p><i>🛸 Mission: Safeguard the green contribution galaxies from space invaders! 🛰️</i></p>
+  <p><i>💾 Visualizing code commits as 3D memory blocks allocated on the heap! ⚡</i></p>
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Statistics
 
