@@ -77,9 +77,6 @@ When I'm not coding, you'll find me researching algorithms or experimenting with
 - 🎯 Advanced C++ optimizations and templates
 - 🔬 Data structures implementations & performance benchmarking
 - 🏗️ Building robust, scalable software systems
-- 🚀 Edge AI development with TensorFlow Lite & ONNX Runtime
-- 📖 Computer Systems & architecture deep-dives
-
 ---
 
 ## 📫 Connect With Me
